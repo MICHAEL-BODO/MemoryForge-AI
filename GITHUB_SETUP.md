@@ -62,10 +62,10 @@ README.md                              142 lines
 STATUS.md                              196 lines
 TODO.md                                280 lines
 docs/AI_AGENT_GUIDE.md                 239 lines
-phase1-hybrid-memory/archival_pipeline.py         45 lines
-phase1-hybrid-memory/embedding_generator.py      165 lines
-phase1-hybrid-memory/memory_models.py            167 lines
-phase1-hybrid-memory/vector_store.py             165 lines
+phase1_hybrid_memory/archival_pipeline.py         45 lines
+phase1_hybrid_memory/embedding_generator.py      165 lines
+phase1_hybrid_memory/memory_models.py            167 lines
+phase1_hybrid_memory/vector_store.py             165 lines
 requirements.txt                        53 lines
 ```
 

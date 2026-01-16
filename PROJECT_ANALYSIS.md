@@ -25,7 +25,7 @@
 ### Code Organization (Excellent ✨)
 ```
 MemoryForge-AI/
-├── phase1-hybrid-memory/          [4 files, 542 LOC]
+├── phase1_hybrid_memory/          [4 files, 542 LOC]
 │   ├── memory_models.py           [167 lines] - Core data structures
 │   ├── embedding_generator.py     [165 lines] - ML embeddings
 │   ├── vector_store.py            [165 lines] - ChromaDB integration

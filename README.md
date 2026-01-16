@@ -80,7 +80,7 @@ for memory, score in results:
 
 ```
 MemoryForge-AI/
-├── phase1-hybrid-memory/      # Core memory architecture
+├── phase1_hybrid_memory/      # Core memory architecture
 │   ├── memory_models.py        # Data structures & interfaces
 │   ├── embedding_generator.py  # Text-to-vector conversion
 │   ├── vector_store.py         # ChromaDB integration

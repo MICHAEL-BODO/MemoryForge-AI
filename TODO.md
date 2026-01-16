@@ -242,7 +242,7 @@ Building an integrated AI enhancement system with hybrid memory architecture, au
 
 ### Project Structure
 - [x] C:\devtools\Claude_AI_Plus\
-- [x] phase1-hybrid-memory/
+- [x] phase1_hybrid_memory/
 - [x] phase3-content-ingestion/
 - [x] knowledge-graph-refinement/
 - [x] nl-memory-interface/

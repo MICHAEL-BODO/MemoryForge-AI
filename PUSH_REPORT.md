@@ -13,7 +13,7 @@
 ## 📦 What's Been Created
 
 ### Core Implementation (542 lines)
-✅ **phase1-hybrid-memory/**
+✅ **phase1_hybrid_memory/**
 - `memory_models.py` - Data structures & interfaces (167 lines)
 - `embedding_generator.py` - ML embeddings with caching (165 lines)
 - `vector_store.py` - ChromaDB integration (165 lines)

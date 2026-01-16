@@ -14,7 +14,7 @@ Build a production-grade hybrid memory system for Claude AI with:
 
 ### Core Components
 
-**Phase 1: Hybrid Memory** (`phase1-hybrid-memory/`)
+**Phase 1: Hybrid Memory** (`phase1_hybrid_memory/`)
 - `memory_models.py` - Data structures (MemoryEntry, MemoryTier, ArchivalTrigger)
 - `embedding_generator.py` - Sentence transformers wrapper with caching
 - `vector_store.py` - ChromaDB integration for semantic search
